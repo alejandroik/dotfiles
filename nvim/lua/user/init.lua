@@ -1,8 +1,8 @@
 return {
-	colorscheme = "PaperColor",
+	colorscheme = "falcon",
 	plugins = {
 		init = {
-			{ "NLKNguyen/papercolor-theme", "fatih/vim-go" },
+			{ "NLKNguyen/papercolor-theme", "fenetikm/falcon", "fatih/vim-go" },
 		},
 	},
 }
