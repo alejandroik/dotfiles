@@ -2,7 +2,7 @@ return {
 	colorscheme = "PaperColor",
 	plugins = {
 		init = {
-			{ "NLKNguyen/papercolor-theme" },
+			{ "NLKNguyen/papercolor-theme", "fatih/vim-go" },
 		},
 	},
 }
