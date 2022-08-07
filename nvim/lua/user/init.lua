@@ -1,8 +1,8 @@
 return {
-	colorscheme = "falcon",
+	colorscheme = "gruvbox",
 	plugins = {
 		init = {
-			{ "NLKNguyen/papercolor-theme", "fenetikm/falcon", "fatih/vim-go" },
+			{ "NLKNguyen/papercolor-theme", "ellisonleao/gruvbox.nvim", "fatih/vim-go" },
 		},
 	},
 }
