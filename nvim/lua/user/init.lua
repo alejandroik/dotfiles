@@ -1,8 +1,13 @@
 return {
-	colorscheme = "gruvbox",
+	colorscheme = "tokyonight",
+	options = {
+		g = {
+			tokyonight_style = "night"
+		},
+	},
 	plugins = {
 		init = {
-			{ "NLKNguyen/papercolor-theme", "ellisonleao/gruvbox.nvim", "fatih/vim-go" },
+			{ "NLKNguyen/papercolor-theme", "tiagovla/tokyodark.nvim", "fatih/vim-go" },
 		},
 	},
 }
