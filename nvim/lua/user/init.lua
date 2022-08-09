@@ -7,7 +7,7 @@ return {
 	},
 	plugins = {
 		init = {
-			{ "NLKNguyen/papercolor-theme", "tiagovla/tokyodark.nvim", "fatih/vim-go" },
+			{ "NLKNguyen/papercolor-theme", "folke/tokyonight.nvim", "fatih/vim-go" },
 		},
 	},
 }
